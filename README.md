@@ -6,6 +6,7 @@ To design a website for a Restaurant of your choice.
 Submission:
 
 Mention the GitHub Repo URL, Website URL in the submission text and attach the lab report pdf.
+[restaurant link](http://127.0.0.1:8000/static/index.html)
 
 Note:  
 
